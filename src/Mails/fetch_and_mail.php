@@ -12,10 +12,8 @@ try {
             'token' => 'A@bpGUiHAMxvT5@'
         ]
     ]);
-    
 
-    $data = json_decode($jsonString, true)['data'];
-
+    $data = json_decode($response->getBody()->getContents(), true)['data'];
 
 
     echo "Correo enviado correctamente\n";
