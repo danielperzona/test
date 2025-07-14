@@ -9,9 +9,10 @@ try {
     // Hacer petición HTTP
     $response = $client->get('https://armm.mx/marcas/json', [
         'query' => [
-            'token' => 'bpGUiHAMxvT5'
+            'token' => 'A@bpGUiHAMxvT5@'
         ]
     ]);
+    
 
     $data = json_decode($jsonString, true)['data'];
 
