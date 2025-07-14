@@ -2,10 +2,6 @@
 require __DIR__ . '/../../vendor/autoload.php';
 
 use GuzzleHttp\Client;
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\Exception;
-use PhpOffice\PhpSpreadsheet\Spreadsheet;
-use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 
 $client = new Client();
 
