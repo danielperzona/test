@@ -3,7 +3,7 @@
         'name' => 'daniel/commands-cv',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '2b3049d834d715c4b5e2e4fc5b019c7d22262b40',
+        'reference' => '04e603cc9ca1c2f3ca210ddd9dd7f81ead2ddd2c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'daniel/commands-cv' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '2b3049d834d715c4b5e2e4fc5b019c7d22262b40',
+            'reference' => '04e603cc9ca1c2f3ca210ddd9dd7f81ead2ddd2c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
