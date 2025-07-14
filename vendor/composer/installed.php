@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'daniel/commands-cv',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'ae2b6ade750ddc4479a200f80c7b9a203995d197',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'daniel/commands-cv' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'ae2b6ade750ddc4479a200f80c7b9a203995d197',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
